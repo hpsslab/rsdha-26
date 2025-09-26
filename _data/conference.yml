@@ -1,9 +1,9 @@
-full_title: RSDHA&#58; 3rd Workshop on Redefining Scalability for Diversely Heterogeneous Architectures
-short_title: RSDHA 2023
+full_title: RSDHA 2026; 4th Workshop on Redefining Scalability for Diversely Heterogeneous Architectures
+short_title: RSDHA 2026
 email: belviranli@mines.edu 
 description: > # this means to ignore newlines until "baseurl:"
-location: Denver, CO, 2023 <br> (Collocated with SC'23)
-date: November 12, 2023
+location: Osaka, Japan, 2026 <br> (Collocated with HPCAsia'26)
+date: January 26, 2026
 # logo_path: ./assets/images/rsdha.png
 slideshow:
   - id: 0
