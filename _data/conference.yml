@@ -1,20 +1,20 @@
 full_title: RSDHA26 4th Workshop on Redefining Scalability for Diversely Heterogeneous Architectures
-short_title: RSDHA 2023
-email: belviranli@mines.edu 
+short_title: RSDHA 2026
+email: slee2@mines.edu 
 description: > # this means to ignore newlines until "baseurl:"
-location: Denver, CO, 2023 <br> (Collocated with SC'23)
-date: November 12, 2023
+location: Osaka, Japan, 2026 <br> (Collocated with SC'23)
+date: January 26, 2026
 # logo_path: ./assets/images/rsdha.png
 slideshow:
   - id: 0
     image_path: ./assets/images/logo.jpg
-    description: sc23
+    description: hpcasia26
     # photographer_name: Mike Boening
     # photographer_link: https://www.flickr.com/photos/memoriesbymike/
     active: True
   - id: 1
     image_path: ./assets/images/keyVisual.jpg
-    description: Denver
+    description: hpcasia26
     # photographer_name: Bryan Nabong
     # photographer_link: https://www.flickr.com/photos/bongarang/
 
@@ -48,21 +48,21 @@ navbar:
     path: /registration.html
     visible: True
 deadlines:
-  - date: 2023-6-12
+  - date: 2025-9-26
     timezone: AOE
     text: Initial dissemination of call for papers
     pass_due: False
-  - date: 2025-9-29
+  - date: 2025-10-27
     timezone: AOE
     text: Paper submissions deadline
     pass_due: False
-  - date: 2025-10-27
+  - date: 2025-11-21
     text: Notification of Acceptance
     pass_due: False
-  - date: 2025-11-21
+  - date: 2025-12-11
     text: Camera-ready Papers
     pass_due: False
-  - date: 2023-11-12
+  - date: 2026-01-26
     text: Workshop
     pass_due: False
 news:
