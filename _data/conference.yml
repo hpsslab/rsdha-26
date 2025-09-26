@@ -86,13 +86,13 @@ program_chair:
   - name: Ali Akoglu
     org: University of Arizona
   - homepage: https://ece.engineering.arizona.edu/faculty-staff/faculty/ali-akoglu/
-#pc_chair:
+pc_chair:
   - name: Mohammad Alaul Haque Monil
     org: Oak Ridge National Laboratory (ORNL)
-#keynote_speakers:
+keynote_speakers:
   - name: Iris Bahar
     org: Colorado School of Mines
-#steering_committees:
+steering_committees:
   - name: Ulya Karpuzcu 
     org:  University of Minnesota, Twin Cities
   - name: Ivy B. Peng
