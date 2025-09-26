@@ -79,7 +79,7 @@ news:
 program_chair:
   - name: Seyong Lee
     org: Oak Ridge National Laboratory
-    homepage: https://ft.ornl.gov/~lees2/
+    homepage: https://seyonglee.github.io
   - name: Mehmet E. Belviranli
     org: Colorado School of Mines
     homepage: http://mehmet.belviranli.com/
@@ -92,9 +92,9 @@ program_chair:
 #pc_chair:
 #  - name: Mohammad Alaul Haque Monil
 #    org: Oak Ridge National Laboratory (ORNL)
-#keynote_speakers:
-#  - name: Iris Bahar
-#    org: Colorado School of Mines
+keynote_speakers:
+  - name: Mitsuhisa Sato
+    org: RIKEN
 #steering_committees:
 #  - name: Ulya Karpuzcu 
 #    org:  University of Minnesota, Twin Cities

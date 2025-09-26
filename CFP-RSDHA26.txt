@@ -1,15 +1,15 @@
 ============================================================
                     Call for Papers
-                      RSDHA 2023:
-         3rd Workshop on Redefining Scalability for 
+                      RSDHA 2026:
+         4th Workshop on Redefining Scalability for 
            Diversely Heterogeneous Architectures
 			   
-            Held in conjunction with SC'23 
+            Held in conjunction with HPCAsia'26 
                 
-                   Denver, CO, USA
-                   November 12, 2023
+                   Osaka, Japan
+                   January 26, 2026
                   
-            <http://hpss.mines.edu/rsdha-23/>
+            <http://hpss.mines.edu/rsdha-26/>
 ============================================================
 
 
@@ -80,16 +80,16 @@ at most 4 pages, which include tables, figures, and references.
 - All submissions should be formatted according to the ACM templates
 and CCS2012 guide that are available at: https://www.acm.org/publications/proceedings-template
 - Accepted papers will be published in the SC23 Workshop Proceedings.
-- Please submit papers through the Supercomputing Linklings site:
-https://submissions.supercomputing.org 
+- Please submit papers through the EasyChair site:
+https://easychair.org/conferences?conf=rsdha26
 
 
 --Important Dates--
-- Initial dissemination of call for papers: June 13, 2023
-- Paper submissions deadline: August 18, 2023
-- Notification of acceptance: September 8, 2023
-- Camera-ready papers: September 28, 2023
-- Workshop: November 12, 2023 
+- Initial dissemination of call for papers: September 26, 2025
+- Paper submissions deadline: October 27, 2025
+- Notification of acceptance: November 21, 2025
+- Camera-ready papers: December 11, 2025
+- Workshop: January 26, 2025 
 
 
 --Workshop Organizers-- 
@@ -100,5 +100,8 @@ https://submissions.supercomputing.org
 	E-mail: lees2@ornl.gov
 - Ali Akoglu, University of Arizona, USA
 	E-mail: akoglu@arizona.edu
+- Keita Teranishi, Oak Ridge National Laboratory, USA
+	E-mail: teranishik@ornl.gov
+
 
 
