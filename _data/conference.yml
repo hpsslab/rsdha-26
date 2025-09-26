@@ -7,21 +7,17 @@ date: November 12, 2023
 # logo_path: ./assets/images/rsdha.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/sc23_logo.png
+    image_path: ./assets/images/logo.jpg
     description: sc23
     # photographer_name: Mike Boening
     # photographer_link: https://www.flickr.com/photos/memoriesbymike/
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/denver.jpeg
+    image_path: ./assets/images/keyVisual.jpg
     description: Denver
     # photographer_name: Bryan Nabong
     # photographer_link: https://www.flickr.com/photos/bongarang/
-  - id: 2
-    image_path: ./assets/images/slideshow/denver_convention_center.jpeg
-    description: Colorado Convention Center
-    # photographer_name: David Sawyer
-    # photographer_link: https://www.flickr.com/photos/18702768@N04/
+   https://www.flickr.com/photos/18702768@N04/
 navbar:
   - id: 0
     label: Home
@@ -56,21 +52,21 @@ deadlines:
     timezone: AOE
     text: Initial dissemination of call for papers
     pass_due: False
-  - date: 2023-8-18
+  - date: 2025-10-18
     timezone: AOE
     text: Paper submissions deadline
     pass_due: False
-  - date: 2023-9-8
+  - date: 2025-11-8
     text: Notification of Acceptance
     pass_due: False
-  - date: 2023-9-28
+  - date: 2023-11-17
     text: Camera-ready Papers
     pass_due: False
-  - date: 2023-11-12
+  - date: 2023-01-26
     text: Workshop
     pass_due: False
 news:
-  - date: 2023-5-18
+  - date: 2025-9-20
     text: Website online
 # sponsors:
 #   - name: ACM
@@ -81,22 +77,22 @@ news:
 #   facebook_link: https://www.facebook.com/hotwebseries/
 #   twitter_link:
 program_chair:
-  - name: Mehmet E. Belviranli
-    org: Colorado School of Mines
-    homepage: http://mehmet.belviranli.com/
   - name: Seyong Lee
     org: Oak Ridge National Laboratory
     homepage: https://ft.ornl.gov/~lees2/
+  - name: Mehmet E. Belviranli
+    org: Colorado School of Mines
+    homepage: http://mehmet.belviranli.com/
   - name: Ali Akoglu
     org: University of Arizona
-    homepage: https://ece.engineering.arizona.edu/faculty-staff/faculty/ali-akoglu/
-pc_chair:
+  - homepage: https://ece.engineering.arizona.edu/faculty-staff/faculty/ali-akoglu/
+#pc_chair:
   - name: Mohammad Alaul Haque Monil
     org: Oak Ridge National Laboratory (ORNL)
-keynote_speakers:
+#keynote_speakers:
   - name: Iris Bahar
     org: Colorado School of Mines
-steering_committees:
+#steering_committees:
   - name: Ulya Karpuzcu 
     org:  University of Minnesota, Twin Cities
   - name: Ivy B. Peng
