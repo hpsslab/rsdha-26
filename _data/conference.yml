@@ -7,13 +7,13 @@ date: November 12, 2023
 # logo_path: ./assets/images/rsdha.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/sc23_logo.png
+    image_path: ./assets/images/logo.jpg
     description: sc23
     # photographer_name: Mike Boening
     # photographer_link: https://www.flickr.com/photos/memoriesbymike/
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/denver.jpeg
+    image_path: ./assets/images/keyVisual.jpg
     description: Denver
     # photographer_name: Bryan Nabong
     # photographer_link: https://www.flickr.com/photos/bongarang/
