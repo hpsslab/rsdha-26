@@ -2,7 +2,7 @@ full_title: RSDHA26 4th Workshop on Redefining Scalability for Diversely Heterog
 short_title: RSDHA 2026
 email: belviranli@mines.edu 
 description: > # this means to ignore newlines until "baseurl:"
-location: Osaka, Japan, 2026 <br> (Collocated with SC'23)
+location: Osaka, Japan, 2026 <br> (Collocated with HPCAsia'26)
 date: January 26, 2026
 # logo_path: ./assets/images/rsdha.png
 slideshow:
@@ -117,22 +117,14 @@ technical_program_committees:
     org: University of Arizona
   - name: Engin Kayraklioglu
     org: Hewlett Packard Enterprise
-  - name: Gokcen Kestor
-    org: Pacific Northwest National Laboratory (PNNL); University of California, Merced
   - name: Jungwon Kim
     org: NVIDIA 
   - name: Joshua Mack
     org: University of Arizona
   - name: Pak Markthub
     org: NVIDIA 
-  - name: Mohammad Alaul Haque Monil
-    org: Oak Ridge National Laboratory (ORNL)
   - name: EunJung (EJ) Park
     org: Qualcomm Inc
-  - name: Amit Sabne
-    org: Google
-  - name: Dingwen Tao
-    org: Indiana University
   - name: Daniel Wong
     org: University of California, Riverside 
   - name: Bo Wu
@@ -141,6 +133,10 @@ technical_program_committees:
     org: University of California, Santa Cruz
   - name: Liang Zhou
     org: Meta
+  - name: Jonathan Lifflander
+    org: Sandia National Labs, California
+  - name: Senthilkumar Thoravi Rajavel
+    org: Synopsys
 #webmaster:
 #  - name: Ismet Dagli
 #    org: Colorado School of Mines (USA)
