@@ -73,20 +73,21 @@ systems and HPC systems
 --Submissions-- 
 
 - Authors are invited to submit original papers in two separate tracks:
-	- Full Paper: submit regular research papers of at least 6 pages in 
-length and at most 12 pages, which include tables, figures, and references. 
-	- Short Paper: submit initial results and position/work-in-progress papers of 
-at most 4 pages, which include tables, figures, and references.
-- All submissions should be formatted according to the ACM templates
-and CCS2012 guide that are available at: https://www.acm.org/publications/proceedings-template
-- Accepted papers will be published in the SC23 Workshop Proceedings.
+	- Full Paper: submit regular research papers in a single-column format 
+at least 12 pages in length at most 18 pages, which include tables, figures, and references. 
+	- Short Paper: submit initial results and position/work-in-progress papers 
+in a single format at most 10 pages, which include tables, figures, and references.
+- All submissions should be formatted according to the ACM Proceedings Style 
+listed in the SCA/HPCAsia 2026 website (https://www.sca-hpcasia2026.jp/submit/papers.html)
+- Accepted papers will be published in ACM-affiliated proceedings.
+- At least one author of an accepted paper must register for and attend the workshop.
 - Please submit papers through the EasyChair site:
 https://easychair.org/conferences?conf=rsdha26
 
 
 --Important Dates--
 - Initial dissemination of call for papers: September 26, 2025
-- Paper submissions deadline: October 27, 2025
+- Paper submissions deadline: October 27, 2025 (AOE)
 - Notification of acceptance: November 21, 2025
 - Camera-ready papers: December 11, 2025
 - Workshop: January 26, 2025 
