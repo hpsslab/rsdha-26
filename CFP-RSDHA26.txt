@@ -79,7 +79,10 @@ at least 12 pages in length at most 18 pages, which include tables, figures, and
 in a single format at most 10 pages, which include tables, figures, and references.
 - All submissions should be formatted according to the ACM Proceedings Style 
 listed in the SCA/HPCAsia 2026 website (https://www.sca-hpcasia2026.jp/submit/papers.html)
-- Accepted papers will be published in ACM-affiliated proceedings.
+- The review process is double-blind.
+- There will be no revision rebuttal process, and the review will be one-pass.
+- Accepted full papers will be published in ACM-affiliated proceedings.
+	- Short papers will not appear in the proceedings.
 - At least one author of an accepted paper must register for and attend the workshop.
 - Please submit papers through the EasyChair site:
 https://easychair.org/conferences?conf=rsdha26
