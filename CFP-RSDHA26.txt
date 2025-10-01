@@ -93,7 +93,7 @@ https://easychair.org/conferences?conf=rsdha26
 - Paper submissions deadline: October 27, 2025 (AOE)
 - Notification of acceptance: November 21, 2025
 - Camera-ready papers: December 11, 2025
-- Workshop: January 26, 2025 
+- Workshop: January 26, 2026
 
 
 --Workshop Organizers-- 
@@ -106,6 +106,7 @@ https://easychair.org/conferences?conf=rsdha26
 	E-mail: akoglu@arizona.edu
 - Keita Teranishi, Oak Ridge National Laboratory, USA
 	E-mail: teranishik@ornl.gov
+
 
 
 
