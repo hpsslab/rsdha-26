@@ -13,7 +13,7 @@
     title: "Keynote 1"
     type: "presentation"
     events: 
-      - title: "TBD"
+      - title: "Programming models for HPC-GPU-QPU hybrid computing"
         speakers: "Mitsuhisa Sato (RIKEN)"
   - startTime: "10:45am"
     endTime: "11:15am"

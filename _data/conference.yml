@@ -95,6 +95,17 @@ program_chair:
 keynote_speakers:
   - name: Mitsuhisa Sato
     org: RIKEN
+  - name: Omri Wolf
+    org: LIghtSolver
+panelists:
+  - name: Jaejin Lee
+    org: Seoul National University
+  - name: Kentaro Sano
+    org: RIKEN
+  - name: Franz Franchetti
+    org: Carnegie Mellon University
+  - name: Ryohei KOBAYASHI
+    org: Institute of Science Tokyo
 #steering_committees:
 #  - name: Ulya Karpuzcu 
 #    org:  University of Minnesota, Twin Cities
